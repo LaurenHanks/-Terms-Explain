@@ -1,0 +1,9 @@
+API
+Think of an API (Application Programming Interface) like a waiter at a restaurant. 
+When you go to a restaurant, you tell the waiter what you want to eat by choosing items from a menu. 
+The waiter then goes to the kitchen to tell the chefs what to make for you. The kitchen does all the work, and then the waiter brings the food back to you.
+An API works in a similar way but with computer programs. 
+When one program wants to use the features or data of another program, it sends a request (like giving your order to the waiter). 
+The API is like the waiter—it takes the request to the other program, which does the work. 
+Then, the API brings back what the first program asked for (like the waiter bringing your food). 
+This way, programs can interact and help each other without needing to understand exactly how the other works, just like you don't need to know how to cook the dishes you order.
